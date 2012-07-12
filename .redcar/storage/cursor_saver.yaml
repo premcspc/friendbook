@@ -6,4 +6,7 @@ cursor_positions:
   - :path: config/application.rb
     :cursor_offset: 0
     :timestamp: 2012-06-01 10:58:04 +05:30
+  - :path: README.md
+    :cursor_offset: 203
+    :timestamp: 2012-07-12 19:15:56 +05:30
 files_to_retain: 0
