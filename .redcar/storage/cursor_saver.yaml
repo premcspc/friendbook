@@ -1,0 +1,9 @@
+--- 
+cursor_positions: 
+  - :path: app/assets/images/rails.png
+    :cursor_offset: 0
+    :timestamp: 2012-06-01 10:58:04 +05:30
+  - :path: config/application.rb
+    :cursor_offset: 0
+    :timestamp: 2012-06-01 10:58:04 +05:30
+files_to_retain: 0
